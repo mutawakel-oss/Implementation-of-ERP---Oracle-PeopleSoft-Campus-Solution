@@ -13,3 +13,7 @@ Implementation requires around 500 sessions attended by 362 business members inc
 4- Testing Workshops (SIT, and UAT)
 
 5- Training Workshops (Train the Trainer approach). 
+
+Following are some sample screenshots for one of the ERP modules used to mark student attendance:
+
+![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png)
