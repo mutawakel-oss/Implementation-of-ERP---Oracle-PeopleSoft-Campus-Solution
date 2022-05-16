@@ -16,14 +16,25 @@ Implementation requires around 500 sessions attended by 362 business members inc
 
 Following are some sample screenshots for one of the ERP modules used to mark student attendance:
 * System Login page:
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png)
 * List of curriculum management module functions:
+
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/2.png)
 * List of attendance roster pages:
+
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/3.png)
 * Searching for a class attendance roster:
+
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/4.png)
 * Selecting an academic activity to mark attendance:
+
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/5.png)
 * Displaying student roster to mark their attendance:
+
+
 ![Sample Graph](https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/6.png)
